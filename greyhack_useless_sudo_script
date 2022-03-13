@@ -1,0 +1,4 @@
+user = params[0] //user inputs username
+password = params[1] //user inputs password
+useless_sudo = get_shell(user, password)
+useless_sudo = get_shell.start_terminal //activates useless sudo makeing user not get root makes the user stay as low level
